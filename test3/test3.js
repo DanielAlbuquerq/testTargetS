@@ -24,7 +24,6 @@ function analisarFaturamento(dados) {
   };
 }
 
-// Exemplo de uso:
 const resultado = analisarFaturamento(dados);
 
 //Aqui eu adicionei o toLocalString para ficar em um formato mais agradável
